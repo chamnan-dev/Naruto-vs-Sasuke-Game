@@ -18,9 +18,6 @@ hitSound = pygame.mixer.Sound("pics\\hit.wav")
 bgm = pygame.mixer.music.load("pics\\shuriken.wav")
 
 pygame.mixer.music.play()
-
-
-
 Clock = pygame.time.Clock()
 
 class player():
